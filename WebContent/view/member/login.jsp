@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>로그인페이지 작성</h1>
+	<h1>로그인 작성</h1>
 </body>
 </html>
